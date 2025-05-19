@@ -41,8 +41,8 @@ Bu projede, bireylerin sağlık ve yaşam tarzı özelliklerine göre felç (str
 - Aynı veri seti ile gözetimsiz öğrenme (K-Means gibi)
 
 ## 📁 Dosya Yapısı
-📦 AkbankMakineOgrenmesiBootcamp
-┣ 📄 README.md
-┣ 📄 stroke_prediction.ipynb
-┣ 📄 requirements.txt (isteğe bağlı)
+-📦 AkbankMakineOgrenmesiBootcamp
+-┣ 📄 README.md
+-┣ 📄 stroke_prediction.ipynb
+-┣ 📄 requirements.txt (isteğe bağlı)
 
