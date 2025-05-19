@@ -25,7 +25,7 @@ Bu projede, bireysel sağlık ve demografik verilerden yola çıkarak bireyin fe
 - Model, yüksek riskli bireyleri tespit etmede etkili ancak daha ileri filtreleme gerekebilir.
 
 ## 🔗 Kaggle Notebook
-👉 [Kaggle linkini buraya ekle]
+👉 [(https://www.kaggle.com/code/nafiyeak/akbankmakineo-renmesi)]
 
 ## 🛠 Geliştirilebilir Noktalar
 - Veri arttırımı (data augmentation)
