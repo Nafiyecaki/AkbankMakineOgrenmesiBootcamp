@@ -1,35 +1,30 @@
-# AkbankMakineOgrenmesiBootcamp
-
-# 🧠 Stroke Prediction with Logistic Regression
+# 🧠 Stroke Prediction - Akbank ML Bootcamp
 
 ## 🔍 Proje Amacı
-Bu projede, bireysel sağlık ve demografik verilerden yola çıkarak bireyin felç (stroke) geçirme riskini tahmin etmek amaçlanmıştır. 
+Bu projede, bireylerin sağlık bilgilerine dayanarak felç (stroke) geçirme riskleri tahmin edilmiştir.
 
 ## 📊 Kullanılan Veri Seti
 - Kaynak: [Kaggle – Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
-- Boyut: 5K kayıt
-- Özellikler: yaş, cinsiyet, hipertansiyon, sigara durumu, vücut kitle endeksi vb.
+- Toplam Kayıt: ~5000
+- Özellikler: yaş, cinsiyet, hipertansiyon, sigara durumu vb.
 
-## 🧪 Kullanılan Modeller
+## ⚙️ Kullanılan Modeller
 - Logistic Regression ✅
 - Random Forest
-- K-Nearest Neighbors
-- SMOTE ile dengesiz veri sorunu çözüldü
-- Hiperparametre optimizasyonu için GridSearchCV kullanıldı
+- K-Nearest Neighbors (KNN)
+- SMOTE (veri dengeleme)
+- GridSearchCV (hiperparametre ayarı)
 
-## ✅ En Başarılı Model
-- **Logistic Regression (C=0.01, penalty='l2')**
-- Recall (stroke=1): **%80**
-- Accuracy: **%75**
-- F1-score: **0.24**
-- Model, yüksek riskli bireyleri tespit etmede etkili ancak daha ileri filtreleme gerekebilir.
+## 📈 Model Performansı (Final Model: Logistic Regression)
+- Accuracy: 0.75
+- Recall (stroke=1): 0.80
+- Precision: 0.14
+- F1-score: 0.24
 
 ## 🔗 Kaggle Notebook
-👉 [(https://www.kaggle.com/code/nafiyeak/akbankmakineo-renmesi)]
+👉 [Buraya Kaggle linkini yapıştır]
 
-## 🛠 Geliştirilebilir Noktalar
-- Veri arttırımı (data augmentation)
-- Yeni özellik mühendisliği (feature engineering)
+## 📌 Geliştirme Fikirleri
+- Daha fazla veri
+- Yeni özellik mühendisliği
 - Deep learning modelleriyle karşılaştırma
-- Streamlit ile mini bir arayüz eklenebilir (bonus)
-
