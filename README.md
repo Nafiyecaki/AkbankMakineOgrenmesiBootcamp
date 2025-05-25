@@ -32,7 +32,7 @@ Bu projede, bireylerin sağlık ve yaşam tarzı özelliklerine göre felç (str
 - ROC eğrisi (isteğe bağlı)
 
 ## 🔗 Kaggle Notebook
-👉 [Kaggle notebook bağlantını buraya yapıştır]
+👉 [(https://www.kaggle.com/models/nafiyeak/akbank)]
 
 ## 💡 Geliştirme Önerileri
 - Deep learning modelleri ile karşılaştırma
@@ -45,4 +45,24 @@ Bu projede, bireylerin sağlık ve yaşam tarzı özelliklerine göre felç (str
 - 📄 README.md
 - 📄 stroke_prediction.ipynb
 - 📄 requirements.txt (isteğe bağlı)
+
+##❓ Neden Bu Veri Setini Seçtim?
+Felç, dünya genelinde önemli bir sağlık sorunudur. Bu veri seti:
+
+Gerçek dünya problemini yansıtmaktadır.
+
+Dengeli olmayan yapısıyla, veri dengeleme tekniklerinin öğrenilmesi için uygundur.
+
+Kategorik ve sayısal değişkenleri birlikte içermektedir.
+
+Sağlık alanına dair modelleme ve değerlendirme pratiği sunar.
+
+Bu nedenlerle, teknik gelişimim ve toplumsal fayda üretme hedefim doğrultusunda bu veri setini tercih ettim.
+
+##🚀 Projenin Gerçek Hayattaki Kullanımı
+Aile hekimliği veya sigorta firmaları için risk ön değerlendirme sistemi olarak kullanılabilir.
+
+Sağlık politikası belirlemede demografik risk analizleri üretilebilir.
+
+Diyabet ve hipertansiyon gibi kronik rahatsızlıkların felç riskiyle ilişkisi istatistiksel olarak incelenebilir.
  
