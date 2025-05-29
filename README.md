@@ -46,7 +46,7 @@ Bu projede, bireylerin sağlık ve yaşam tarzı özelliklerine göre felç (str
 - 📄 stroke_prediction.ipynb
 - 📄 requirements.txt (isteğe bağlı)
 
-##❓ Neden Bu Veri Setini Seçtim?
+## ❓ Neden Bu Veri Setini Seçtim?
 Felç, dünya genelinde önemli bir sağlık sorunudur. Bu veri seti:
 
 Gerçek dünya problemini yansıtmaktadır.
@@ -59,7 +59,7 @@ Sağlık alanına dair modelleme ve değerlendirme pratiği sunar.
 
 Bu nedenlerle, teknik gelişimim ve toplumsal fayda üretme hedefim doğrultusunda bu veri setini tercih ettim.
 
-##🚀 Projenin Gerçek Hayattaki Kullanımı
+## 🚀 Projenin Gerçek Hayattaki Kullanımı
 Aile hekimliği veya sigorta firmaları için risk ön değerlendirme sistemi olarak kullanılabilir.
 
 Sağlık politikası belirlemede demografik risk analizleri üretilebilir.
