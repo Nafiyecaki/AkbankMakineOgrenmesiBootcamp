@@ -1,5 +1,4 @@
-# 🧠 Stroke Prediction - Akbank Makine Öğrenmesi Bootcamp
-
+# 🧠 Stroke Prediction - Makine Öğrenmesi 
 ## 🔍 Proje Amacı
 Bu projede, bireylerin sağlık ve yaşam tarzı özelliklerine göre felç (stroke) geçirme risklerini tahmin eden bir makine öğrenmesi modeli geliştirilmiştir.
 
