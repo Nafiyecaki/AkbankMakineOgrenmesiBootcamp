@@ -30,8 +30,6 @@ Bu projede, bireylerin sağlık ve yaşam tarzı özelliklerine göre felç (str
 - Hedef değişken dağılımı
 - ROC eğrisi (isteğe bağlı)
 
-## 🔗 Kaggle Notebook
-👉 [(https://www.kaggle.com/models/nafiyeak/akbank)]
 
 ## 💡 Geliştirme Önerileri
 - Deep learning modelleri ile karşılaştırma
